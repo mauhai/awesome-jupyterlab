@@ -16,7 +16,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - https://jupyter.org/community.html
 - https://github.com/topics/jupyterlab
 - https://github.com/topics/jupyterlab-extension
-- [/r/jupyter](https://www.reddit.com/r/IPython/)
+- [/r/IPython](https://www.reddit.com/r/IPython/)
 
 ## Community
 
