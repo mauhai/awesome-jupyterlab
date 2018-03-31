@@ -12,11 +12,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [JupyterHub](https://github.com/jupyterhub/jupyterlab-hub) - This adds a "Hub" menu to JupyterLab that allows a user to log out of JupyterHub or access their [JupyterHub](https://github.com/jupyterhub/jupyterhub) control panel.
 
 # Version Control
-- [Git](https://github.com/jupyterlab/jupyterlab-git) - Currently in pre-alpha
+- [Git](https://github.com/jupyterlab/jupyterlab-git) - Git extension (currently in alpha)
 - [GitHub](https://github.com/jupyterlab/jupyterlab-github) - GitHub extension
 
 # Viewers/Renderers
 - [Bokeh](https://github.com/bokeh/jupyterlab_bokeh) - An extension rendering Bokeh content
+- [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive widgets for the Jupyter Notebook
 - [fasta,geojson,katex,plotly,vega2](https://github.com/jupyterlab/jupyter-renderers) - Multiple package repo that consists of generic renderers for common file types and mime types as well as renderer extensions for JupyterLab.
 - [voyager](https://github.com/altair-viz/jupyterlab_voyager) - A JupyterLab MIME renderer extension to view CSV and JSON data in [Voyager 2](https://github.com/vega/voyager#voyager-2).
 
