@@ -21,6 +21,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [fasta,geojson,katex,plotly,vega2](https://github.com/jupyterlab/jupyter-renderers) - Multiple package repo that consists of generic renderers for common file types and mime types as well as renderer extensions for JupyterLab.
 - [voyager](https://github.com/altair-viz/jupyterlab_voyager) - A JupyterLab MIME renderer extension to view CSV and JSON data in [Voyager 2](https://github.com/vega/voyager#voyager-2).
 
+# Other
+- [lantern](https://github.com/timkpaine/lantern) - Data exploration kit
+
 # Resources
 
 ## Websites
