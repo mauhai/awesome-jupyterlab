@@ -7,6 +7,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 # Editors
 - [LaTeX](https://github.com/jupyterlab/jupyterlab-latex) - An extension for JupyterLab which allows for live-editing of LaTeX documents.
+- [DrawIO](https://github.com/QuantStack/jupyterlab-drawio) - An extension to draw diagrams in JupyterLab.
 
 # User Access
 - [JupyterHub](https://github.com/jupyterhub/jupyterlab-hub) - This adds a "Hub" menu to JupyterLab that allows a user to log out of JupyterHub or access their [JupyterHub](https://github.com/jupyterhub/jupyterhub) control panel.
