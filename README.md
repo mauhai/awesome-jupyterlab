@@ -23,6 +23,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [fasta,geojson,katex,plotly,vega2](https://github.com/jupyterlab/jupyter-renderers) - Multiple package repo that consists of generic renderers for common file types and mime types as well as renderer extensions for JupyterLab.
 - [voyager](https://github.com/altair-viz/jupyterlab_voyager) - A JupyterLab MIME renderer extension to view CSV and JSON data in [Voyager 2](https://github.com/vega/voyager#voyager-2).
 
+# Themes
+- [Light](https://github.com/jupyterlab/jupyterlab/tree/master/packages/theme-light-extension) - Default light-colored theme
+- [Dark](https://github.com/jupyterlab/jupyterlab/tree/master/packages/theme-dark-extension) - Defailt dark-colored theme
+- [Material Darker](https://github.com/oriolmirosa/jupyterlab_materialdarker) - Material Darker theme
+- [Atom Dark](https://github.com/BurglarBenson/Jupyter-Atom-Dark-Theme) - Atom Dark theme
+- [AixViPMaP](https://github.com/AixViPMaP/jlab-theme) - AixViPMaP theme
+
 # Other
 - [lantern](https://github.com/timkpaine/lantern) - Data exploration kit
 
