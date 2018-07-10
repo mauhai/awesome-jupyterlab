@@ -31,7 +31,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [AixViPMaP](https://github.com/AixViPMaP/jlab-theme) - AixViPMaP theme
 
 # Other
+- [Clipboard](https://github.com/Bamieh/jupyterlab-clipboard) - Paste images from clipboard
 - [lantern](https://github.com/timkpaine/lantern) - Data exploration kit
+
 
 # Resources
 
