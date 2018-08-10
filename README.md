@@ -32,6 +32,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 # Other
 - [lantern](https://github.com/timkpaine/lantern) - Data exploration kit
+- [scriptedforms](https://github.com/SimonBiggs/scriptedforms) - Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements.
 
 # Resources
 
