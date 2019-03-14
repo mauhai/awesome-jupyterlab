@@ -24,6 +24,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [fasta,geojson,katex,plotly,vega2](https://github.com/jupyterlab/jupyter-renderers) - Multiple package repo that consists of generic renderers for common file types and mime types as well as renderer extensions for JupyterLab.
 - [voyager](https://github.com/altair-viz/jupyterlab_voyager) - A JupyterLab MIME renderer extension to view CSV and JSON data in [Voyager 2](https://github.com/vega/voyager#voyager-2).
 - [Dash](https://github.com/plotly/jupyterlab-dash) - An extension for rendering [Plotly Dash](https://plot.ly/products/dash/) apps as a separate window.
+- [ipysheet](https://github.com/QuantStack/ipysheet) - Interactive spreadsheet in JupyterLab.
 
 # Themes
 - [Light](https://github.com/jupyterlab/jupyterlab/tree/master/packages/theme-light-extension) - Default light-colored theme
