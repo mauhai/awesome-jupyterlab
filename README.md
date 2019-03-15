@@ -10,6 +10,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [DrawIO](https://github.com/QuantStack/jupyterlab-drawio) - An extension to draw diagrams in JupyterLab.
 - [Table of Contents](https://github.com/ian-r-rose/jupyterlab-toc) - Generates a table of content for your notebook and markdown documents.
 - [Go to definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Allows you to <kbd>Alt</kbd> + <kbd>click</kbd> on a variable to jump to its definition.
+- [Code Formatter](https://github.com/dnanhkhoa/nb_black) - Beautifies Python code automatically using Black/Yapf.
 
 # User Access
 - [JupyterHub](https://github.com/jupyterhub/jupyterlab-hub) - This adds a "Hub" menu to JupyterLab that allows a user to log out of JupyterHub or access their [JupyterHub](https://github.com/jupyterhub/jupyterhub) control panel.
