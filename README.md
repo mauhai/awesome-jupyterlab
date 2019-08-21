@@ -18,6 +18,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 # Version Control
 - [Git](https://github.com/jupyterlab/jupyterlab-git) - Git extension (currently in alpha)
 - [GitHub](https://github.com/jupyterlab/jupyterlab-github) - GitHub extension
+- [neptune-notebooks](https://docs.neptune.ml/notebooks/introduction.html) - An extension that lets you version, diff, and share your JupyterLab and Jupyter notebooks on [neptune.ml](https://neptune.ml/). 
 
 # Viewers/Renderers
 - [Bokeh](https://github.com/bokeh/jupyterlab_bokeh) - An extension rendering Bokeh content
