@@ -6,7 +6,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 
 # Editors
--[Spellchecker](https://github.com/ijmbarr/jupyterlab_spellchecker) - Spellchecker for markdown cells
+- [Spellchecker](https://github.com/ijmbarr/jupyterlab_spellchecker) - Spellchecker for markdown cells
 - [LaTeX](https://github.com/jupyterlab/jupyterlab-latex) - An extension for JupyterLab which allows for live-editing of LaTeX documents.
 - [DrawIO](https://github.com/QuantStack/jupyterlab-drawio) - An extension to draw diagrams in JupyterLab.
 - [Table of Contents](https://github.com/ian-r-rose/jupyterlab-toc) - Generates a table of content for your notebook and markdown documents.
