@@ -43,7 +43,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [lantern](https://github.com/timkpaine/lantern) - Data exploration kit
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Jupyterlab, VS Code, Tensorflow, and many other tools/libraries into one Docker image.
 - [scriptedforms](https://github.com/SimonBiggs/scriptedforms) - Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements.
-- [Variable inspector]:(https://github.com/lckr/jupyterlab-variableInspector) - Nice interactive variable inspector for your notebook
+- [Variable inspector](https://github.com/lckr/jupyterlab-variableInspector) - Nice interactive variable inspector for your notebook
 
 # Resources
 
