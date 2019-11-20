@@ -37,6 +37,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Material Darker](https://github.com/oriolmirosa/jupyterlab_materialdarker) - Material Darker theme
 - [Atom Dark](https://github.com/BurglarBenson/Jupyter-Atom-Dark-Theme) - Atom Dark theme
 - [AixViPMaP](https://github.com/AixViPMaP/jlab-theme) - AixViPMaP theme
+- [Gruvbox](https://github.com/Rahlir/theme-gruvbox) - Gruvbox theme
 
 # Other
 - [jupyterlab_discovery](https://github.com/vidartf/jupyterlab_discovery) - A JupyterLab extension to facilitate the discovery and installation of other extensions
