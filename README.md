@@ -6,14 +6,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 
 # Editors
--[Spellchecker](https://github.com/ijmbarr/jupyterlab_spellchecker) - Spellchecker for markdown cells
+- [Spellchecker](https://github.com/ijmbarr/jupyterlab_spellchecker) - Spellchecker for markdown cells
 - [LaTeX](https://github.com/jupyterlab/jupyterlab-latex) - An extension for JupyterLab which allows for live-editing of LaTeX documents.
 - [DrawIO](https://github.com/QuantStack/jupyterlab-drawio) - An extension to draw diagrams in JupyterLab.
 - [Table of Contents](https://github.com/ian-r-rose/jupyterlab-toc) - Generates a table of content for your notebook and markdown documents.
-- [Collapsable Headings]:(https://github.com/aquirdTurtle/Collapsible_Headings) - Allows to collapse an entire group of cells under the same header
+- [Collapsable Headings](https://github.com/aquirdTurtle/Collapsible_Headings) - Allows to collapse an entire group of cells under the same header
 - [Go to definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Allows you to <kbd>Alt</kbd> + <kbd>click</kbd> on a variable to jump to its definition.
 - [Code Formatter](https://github.com/ryantam626/jupyterlab_code_formatter) - Easily beautifies Python code inside JupyterLab using one of the formatters: Black/YAPF/AutoPEP8.
 - [LSP](https://github.com/krassowski/jupyterlab-lsp) - brings VS Code features (code navigation, hover suggestions, linters, autocompletion, etc.) to JupyterLab
+- [Vim](https://github.com/jwkvam/jupyterlab-vim) - Notebook cell vim bindings.
 
 # User Access
 - [JupyterHub](https://github.com/jupyterhub/jupyterlab-hub) - This adds a "Hub" menu to JupyterLab that allows a user to log out of JupyterHub or access their [JupyterHub](https://github.com/jupyterhub/jupyterhub) control panel.
