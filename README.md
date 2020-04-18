@@ -41,6 +41,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 # Other
 - [jupyterlab_discovery](https://github.com/vidartf/jupyterlab_discovery) - A JupyterLab extension to facilitate the discovery and installation of other extensions
+- [jupyterlab_debugger](https://github.com/jupyterlab/debugger) -  JupyterLab extension to allow visual debuggeing of Jupyter notebooks, consoles, and source files.
+- [jupyterlab_table of contents](https://github.com/jupyterlab/jupyterlab-toc) - A JupyterLab extension to create Table of Contents.
 - [lantern](https://github.com/timkpaine/lantern) - Data exploration kit
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Jupyterlab, VS Code, Tensorflow, and many other tools/libraries into one Docker image.
 - [scriptedforms](https://github.com/SimonBiggs/scriptedforms) - Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements.
