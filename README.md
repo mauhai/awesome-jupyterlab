@@ -36,6 +36,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Light](https://github.com/jupyterlab/jupyterlab/tree/master/packages/theme-light-extension) - Default light-colored theme
 - [Dark](https://github.com/jupyterlab/jupyterlab/tree/master/packages/theme-dark-extension) - Default dark-colored theme
 - [Material Darker](https://github.com/oriolmirosa/jupyterlab_materialdarker) - Material Darker theme
+- [Darcula](https://github.com/telamonian/theme-darcula) - Darcula theme with scrollbars, based on IntelliJ
 - [Atom Dark](https://github.com/BurglarBenson/Jupyter-Atom-Dark-Theme) - Atom Dark theme
 - [AixViPMaP](https://github.com/AixViPMaP/jlab-theme) - AixViPMaP theme
 
