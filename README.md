@@ -14,7 +14,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Go to definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Allows you to <kbd>Alt</kbd> + <kbd>click</kbd> on a variable to jump to its definition.
 - [Code Formatter](https://github.com/ryantam626/jupyterlab_code_formatter) - Easily beautifies Python code inside JupyterLab using one of the formatters: Black/YAPF/AutoPEP8.
 - [LSP](https://github.com/krassowski/jupyterlab-lsp) - brings VS Code features (code navigation, hover suggestions, linters, autocompletion, etc.) to JupyterLab
-- [Dash](https://github.com/plotly/jupyterlab-dash) - Extension for the Interactive development of Dash apps in JupyterLab.
+- [Dash](https://github.com/plotly/jupyter-dash) - Extension for the Interactive development of Dash apps in JupyterLab.
 
 # User Access
 - [JupyterHub](https://github.com/jupyterhub/jupyterlab-hub) - This adds a "Hub" menu to JupyterLab that allows a user to log out of JupyterHub or access their [JupyterHub](https://github.com/jupyterhub/jupyterhub) control panel.
