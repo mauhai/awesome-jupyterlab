@@ -51,6 +51,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [scriptedforms](https://github.com/SimonBiggs/scriptedforms) - Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements.
 - [Variable inspector](https://github.com/lckr/jupyterlab-variableInspector) - Nice interactive variable inspector for your notebook
 - [Dask](https://github.com/dask/dask-labextension) - Manage Dask clusters, as well as embed Dask's dashboard plots directly into JupyterLab panes.
+- [jupyterlab-autoplay](https://github.com/remborg/autoplay) - Run and hide code cells automatically when opening a notebook.
 
 # Resources
 
