@@ -41,6 +41,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Atom Dark](https://github.com/BurglarBenson/Jupyter-Atom-Dark-Theme) - Atom Dark theme
 - [AixViPMaP](https://github.com/AixViPMaP/jlab-theme) - AixViPMaP theme
 - [Gruvbox](https://github.com/Rahlir/theme-gruvbox) - Gruvbox theme
+- [Pitaya smoothie](gh repo clone mauhai/awesome-jupyterlab) - Pitaya smoothie: a dark theme with focus on accessibility (scrollbars included)
 
 # Other
 - [jupyterlab_discovery](https://github.com/vidartf/jupyterlab_discovery) - A JupyterLab extension to facilitate the discovery and installation of other extensions
