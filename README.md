@@ -16,6 +16,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [LSP](https://github.com/krassowski/jupyterlab-lsp) - brings VS Code features (code navigation, hover suggestions, linters, autocompletion, etc.) to JupyterLab
 - [Dash](https://github.com/plotly/jupyter-dash) - Extension for the Interactive development of Dash apps in JupyterLab.
 - [Vim](https://github.com/jwkvam/jupyterlab-vim) - Notebook cell vim bindings.
+- [Elyra](https://github.com/elyra-ai/elyra) - Create and run notebook pipelines locally or remotely
 
 # User Access
 - [JupyterHub](https://github.com/jupyterhub/jupyterlab-hub) - This adds a "Hub" menu to JupyterLab that allows a user to log out of JupyterHub or access their [JupyterHub](https://github.com/jupyterhub/jupyterhub) control panel.
