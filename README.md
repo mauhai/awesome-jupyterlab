@@ -72,3 +72,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - https://github.com/adebar/awesome-jupyter
 - https://github.com/quobit/awesome-python-in-education#jupyter
 - https://github.com/jupyter/jupyter/wiki/a-gallery-of-interesting-jupyter-notebooks
+
+
+
+# 💜 Thanks!
+Thanks goes out to the community that creates all of these plugins, learning resources and designs. This github repo is supported by [y42](https://www.y42.com).
