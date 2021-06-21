@@ -21,6 +21,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 # User Access
 - [JupyterHub](https://github.com/jupyterhub/jupyterlab-hub) - This adds a "Hub" menu to JupyterLab that allows a user to log out of JupyterHub or access their [JupyterHub](https://github.com/jupyterhub/jupyterhub) control panel.
 
+# Dependency management
+- [jupyterlab-requirements](https://github.com/thoth-station/jupyterlab-requirements) - JupyterLab Extension for dependency management and optimization.
+
 # Version Control
 - [Git](https://github.com/jupyterlab/jupyterlab-git) - Git extension (currently in alpha)
 - [GitHub](https://github.com/jupyterlab/jupyterlab-github) - GitHub extension
