@@ -6,14 +6,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 
 # Editors
-- [Spellchecker](https://github.com/ijmbarr/jupyterlab_spellchecker) - Spellchecker for markdown cells
+- [Spellchecker](https://github.com/jupyterlab-contrib/spellchecker) - Spellchecker for markdown cells
 - [LaTeX](https://github.com/jupyterlab/jupyterlab-latex) - An extension for JupyterLab which allows for live-editing of LaTeX documents.
 - [DrawIO](https://github.com/QuantStack/jupyterlab-drawio) - An extension to draw diagrams in JupyterLab.
-- [Table of Contents](https://github.com/ian-r-rose/jupyterlab-toc) - Generates a table of content for your notebook and markdown documents.
-- [Collapsable Headings](https://github.com/aquirdTurtle/Collapsible_Headings) - Allows to collapse an entire group of cells under the same header
-- [Go to definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Allows you to <kbd>Alt</kbd> + <kbd>click</kbd> on a variable to jump to its definition.
+- [Collapsable Headings](https://github.com/aquirdTurtle/Collapsible_Headings) - Allows to collapse an entire group of cells under the same header.
 - [Code Formatter](https://github.com/ryantam626/jupyterlab_code_formatter) - Easily beautifies Python code inside JupyterLab using one of the formatters: Black/YAPF/AutoPEP8.
-- [LSP](https://github.com/krassowski/jupyterlab-lsp) - brings VS Code features (code navigation, hover suggestions, linters, autocompletion, etc.) to JupyterLab
+- [LSP](https://github.com/krassowski/jupyterlab-lsp) - brings coding assistance features (code navigation, hover suggestions, linters, autocompletion, etc.) to JupyterLab
 - [Dash](https://github.com/plotly/jupyter-dash) - Extension for the Interactive development of Dash apps in JupyterLab.
 - [Vim](https://github.com/jwkvam/jupyterlab-vim) - Notebook cell vim bindings.
 - [Elyra](https://github.com/elyra-ai/elyra) - Create and run notebook pipelines locally or remotely
@@ -22,7 +20,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [JupyterHub](https://github.com/jupyterhub/jupyterlab-hub) - This adds a "Hub" menu to JupyterLab that allows a user to log out of JupyterHub or access their [JupyterHub](https://github.com/jupyterhub/jupyterhub) control panel.
 
 # Version Control
-- [Git](https://github.com/jupyterlab/jupyterlab-git) - Git extension (currently in alpha)
+- [Git](https://github.com/jupyterlab/jupyterlab-git) - Git extension
 - [GitHub](https://github.com/jupyterlab/jupyterlab-github) - GitHub extension
 - [neptune-notebooks](https://docs.neptune.ml/notebooks/introduction.html) - An extension that lets you version, diff, and share your JupyterLab and Jupyter notebooks on [neptune.ml](https://neptune.ml/). 
 
@@ -44,15 +42,19 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Gruvbox](https://github.com/Rahlir/theme-gruvbox) - Gruvbox theme
 
 # Other
-- [jupyterlab_discovery](https://github.com/vidartf/jupyterlab_discovery) - A JupyterLab extension to facilitate the discovery and installation of other extensions
-- [jupyterlab_debugger](https://github.com/jupyterlab/debugger) -  JupyterLab extension to allow visual debuggeing of Jupyter notebooks, consoles, and source files.
-- [jupyterlab_table of contents](https://github.com/jupyterlab/jupyterlab-toc) - A JupyterLab extension to create Table of Contents.
 - [lantern](https://github.com/timkpaine/lantern) - Data exploration kit
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Jupyterlab, VS Code, Tensorflow, and many other tools/libraries into one Docker image.
 - [scriptedforms](https://github.com/SimonBiggs/scriptedforms) - Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements.
 - [Variable inspector](https://github.com/lckr/jupyterlab-variableInspector) - Nice interactive variable inspector for your notebook
 - [Dask](https://github.com/dask/dask-labextension) - Manage Dask clusters, as well as embed Dask's dashboard plots directly into JupyterLab panes.
 - [jupyterlab-autoplay](https://github.com/remborg/autoplay) - Run and hide code cells automatically when opening a notebook.
+
+# No longer required
+
+These extensions were incorporated into the JupyterLab distribution and no longer need to be installed separately. If you installed them previously you may want to uninstall those before upgrading:
+- <s>[Table of Contents](https://github.com/jupyterlab/jupyterlab-toc)</s> (included by default in JupyterLab 3.0+) - Generates a table of content for your notebook and markdown documents
+- <s>[jupyterlab_debugger](https://github.com/jupyterlab/debugger)</s> (included by default in JupyterLab 3.0+) - JupyterLab extension to allow visual debuggeing of Jupyter notebooks, consoles, and source files.
+- <s>[jupyterlab_discovery](https://github.com/vidartf/jupyterlab_discovery)</s> (included by default in JupyterLab 0.33+) - A JupyterLab extension to facilitate the discovery and installation of other extensions
 
 # Resources
 
