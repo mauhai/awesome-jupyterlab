@@ -53,6 +53,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Variable inspector](https://github.com/lckr/jupyterlab-variableInspector) - Nice interactive variable inspector for your notebook
 - [Dask](https://github.com/dask/dask-labextension) - Manage Dask clusters, as well as embed Dask's dashboard plots directly into JupyterLab panes.
 - [jupyterlab-autoplay](https://github.com/remborg/autoplay) - Run and hide code cells automatically when opening a notebook.
+- [Tabnine](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension. 
 
 # Resources
 
