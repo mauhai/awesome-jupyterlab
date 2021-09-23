@@ -42,6 +42,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Gruvbox](https://github.com/Rahlir/theme-gruvbox) - Gruvbox theme
 
 # Other
+- [Clipboard](https://github.com/Bamieh/jupyterlab-clipboard) - Paste images from clipboard
 - [lantern](https://github.com/timkpaine/lantern) - Data exploration kit
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Jupyterlab, VS Code, Tensorflow, and many other tools/libraries into one Docker image.
 - [scriptedforms](https://github.com/SimonBiggs/scriptedforms) - Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements.
@@ -55,6 +56,7 @@ These extensions were incorporated into the JupyterLab distribution and no longe
 - <s>[Table of Contents](https://github.com/jupyterlab/jupyterlab-toc)</s> (included by default in JupyterLab 3.0+) - Generates a table of content for your notebook and markdown documents
 - <s>[jupyterlab_debugger](https://github.com/jupyterlab/debugger)</s> (included by default in JupyterLab 3.0+) - JupyterLab extension to allow visual debuggeing of Jupyter notebooks, consoles, and source files.
 - <s>[jupyterlab_discovery](https://github.com/vidartf/jupyterlab_discovery)</s> (included by default in JupyterLab 0.33+) - A JupyterLab extension to facilitate the discovery and installation of other extensions
+
 
 # Resources
 
