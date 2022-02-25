@@ -6,6 +6,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 
 # Editors
+- [StickyLand](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells
 - [Spellchecker](https://github.com/jupyterlab-contrib/spellchecker) - Spellchecker for markdown cells
 - [LaTeX](https://github.com/jupyterlab/jupyterlab-latex) - An extension for JupyterLab which allows for live-editing of LaTeX documents.
 - [DrawIO](https://github.com/QuantStack/jupyterlab-drawio) - An extension to draw diagrams in JupyterLab.
