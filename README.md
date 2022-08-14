@@ -64,6 +64,7 @@ These extensions were incorporated into the JupyterLab distribution and no longe
 - https://pypi.python.org/pypi/jupyterlab - PyPI
 - https://github.com/topics/jupyterlab
 - https://github.com/topics/jupyterlab-extension
+- https://kandi.openweaver.com/explore/jupyter - Discover libraries, packages, source code, cloud functions and APIs
 
 ## Community
 - [/r/IPython](https://www.reddit.com/r/IPython/)
